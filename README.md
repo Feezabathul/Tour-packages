@@ -38,9 +38,5 @@ Build Photos
 
 Project Demo
 Video
-<video width="600" controls>
-  <source src="Recording 2025-02-09 065746.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![Watch the video](Recording 2025-02-09 065746.mp4)
 
