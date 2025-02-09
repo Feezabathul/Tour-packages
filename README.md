@@ -38,5 +38,5 @@ Build Photos
 
 Project Demo
 Video
-![Watch the video](https://drive.google.com/file/d/1S-uzxyUrPZwkMXS7kMz8oWaAvxADc2ND/view?usp=drive_link)
+![Watch the video](https://drive.google.com/file/d/1bO9ywvk3l3wsVMbBbqu397de56025oXU/view?usp=drive_link)
 
