@@ -14,7 +14,8 @@ The Problem statement
 Actually our classmates and friends enqiures about how to visit lakshadweep?
 
 The Solution
-So PackitUp is the best solution for their queries
+So PackitUp is the best solution for their queries. we used to build this PackitUp using html css and javascript.
+we displayed the packages as a list so that the client can navigate according to the intrest. the fun element of the website is the spinning wheel, which include lots of exciting offers for the client.
 
 
 Project Documentation
