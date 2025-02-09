@@ -38,5 +38,5 @@ Build Photos
 
 Project Demo
 Video
-![Watch the video](Recording 2025-02-09 065746.mp4)
+![Watch the video](/Recording 2025-02-09 065746.mp4)
 
